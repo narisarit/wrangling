@@ -12,10 +12,14 @@ str_match()
 str_trim()
 str_to_lower()
 str_split()
+str_c()
+str_length()
 parse_number()
 mutate_at()
 separate()
 extract() 
+unnest()
+
 
 suppressWarnings()
 
@@ -42,4 +46,13 @@ $
 * # 0 or more
 + # 1 or more
 ? # 0 or 1
+  
+  
+pdf_text() #pdftools library
+
+case_when()
+recode()
+recode_factor()
+distinct()
+
 
