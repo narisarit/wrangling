@@ -19,6 +19,10 @@ second()
 hms()
 mdy_hms()
 
+round_date()
+weekdays()
+as_datetime()
+
 unnest_tokens()
 get_sentiments()
 
